@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export DESKTOP_CORE_NAME="feishu"
+export DESKTOP_CORE_BIN_NAME="$DESKTOP_CORE_NAME"
+export DESKTOP_CORE_VERSION=v6.11.14
+export DESKTOP_CORE_ORG="whatwewant"
+
+export DESKTOP_CORE_RELEASE_DOWNLOAD="https://github.com/${DESKTOP_CORE_ORG}/feishu/releases/download"
